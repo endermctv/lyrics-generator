@@ -1,7 +1,13 @@
-const $ = selector => document.querySelector(selector);
-const root = $('#root');
+const root = document.querySelector('#root');
 
-const lyrics = ['Hi!', 'I\'m a lyric!', 'I\'m here just for you! ❤️', 'How are you?', 'Me? I\'m fine! 😉', 'Goodbye!'];
+const lyrics = [
+    'Hi!',
+    'I\'m a lyric!',
+    'I\'m here just for you! ❤️',
+    'How are you?',
+    'Me? I\'m fine! 😉',
+    'Goodbye!'
+];
 
 lyrics.map((value) => {
     const lyric = document.createElement('p');
