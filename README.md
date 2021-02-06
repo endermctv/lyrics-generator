@@ -13,7 +13,7 @@ To edit the lyrics you need to edit the `lyrics` variable (located in `script.js
 By default, the lyrics are:
 - Hi!
 - I'm a lyric!
-- I'm here just for you! <3
+- I'm here just for you! ❤️
 - How are you?
-- Me? I'm fine!
+- Me? I'm fine! 😉
 - Goodbye!
